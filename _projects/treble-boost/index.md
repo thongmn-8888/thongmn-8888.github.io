@@ -16,16 +16,21 @@ The Treble Boost Audio Effects Circuit project involved designing an analog circ
 - Breadboard
 
 ### Schematics in LTSpice
-![Top-level schematic](/assets/images/bms-project/top-level.png)
+![Schematics in LTSpice](/assets/images/treble-boost-project/schematics.png)
 
 ### Transient Response Simulation in LTSpice
-![Voltage subtractor circuit](/assets/images/bms-project/voltage-subtractor.png)
+![Transient Response](/assets/images/treble-boost-project/transient-response.png)
 
 ### Frequency Response Simulation in LTSpice
-![Power rail design](/assets/images/bms-project/power-rail.png)
+![Frequency Response](/assets/images/treble-boost-project/bode-plot.png)
 
 ### Breadboard Circuit
+![Breadboard](/assets/images/treble-boost-project/breadboard.png)
 
 ### Frequency Response measured from breadboard using Network Analyzer
+![Frequency Response using Network Analyzer](/assets/images/treble-boost-project/frequency-domain.png)
 
 ### Time-Domain plots measured from breadboard using Oscilloscope
+![Time-Domain plot with 200 Hz using Oscilloscope](/assets/images/treble-boost-project/time-domain-200hz.png)
+![Time-Domain plot with 500 Hz using Oscilloscope](/assets/images/treble-boost-project/time-domain-500hz.png)
+![Time-Domain plot with 20 kHz using Oscilloscope](/assets/images/treble-boost-project/time-domain-20khz.png)
