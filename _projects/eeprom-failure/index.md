@@ -22,7 +22,9 @@ Then, I decided to try using a Bus Pirate, which requires me learning how to set
 With the third method, I utilized the Nordic Dev Kit to communicate with the EEPOM. I wrote codes in C to enable SPI communication between the Nordic microcontroller and EEPROM. As a result, I was able to send erase, write, and read commands on both bad and good EEPROMs. Since I wrote code on uVision IDE, I run the code in debugger mode to confirm the read data from EEPROM and compare it with the oscilloscope result, which ensures the data exchanges are accurate. Based on the oscilloscope result, which shows that the Data In signal transitions on rising edge, while the Data Out transitions on falling edges. This behavior is abnormal to my experiences with decoding data on clocks since it is usually the rising edges that matter. Thus, I reached out to the field application engineer from the EEPROM manufacturer to confirm this signal behavior.
 
 ## Timing Diagrams
-
+<img src="/assets/images/eeprom-failure-project/read-timing.png" width="600">
+<img src="/assets/images/eeprom-failure-project/write-timing.png" width="600">
+<img src="/assets/images/eeprom-failure-project/eral-timing.png" width="600">
 
 ## Result
 The failure is identified to be data corruption inside the EEPROM. Reprogrammed ‘bad’ EEPROM passed functional testing and displayed Ethernet MAC address using instrument testing.
