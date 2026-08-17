@@ -5,7 +5,7 @@ permalink: /coursework/
 
 # Technical Coursework
 
-<p class="gpa-line">GPA: 3.15 / 4.00</p>
+<p class="gpa-line"><strong>GPA</strong>: 3.15 / 4.00</p>
 
 <h2 class="semester-heading">Fall 2026</h2>
 
