@@ -5,4 +5,9 @@ description:  This project focuses on the design of a Battery Management System 
 skills: 
 - KiCAD
 main-image: /bms.png
+<p float="left">
+  <img src="/assets/images/bms-project/top-level.png" width="300" />
+  <img src="/assets/images/bms-project/voltage-subtractor.png" width="300" /> 
+  <img src="/assets/images/bms-project/power-rail.png" width="300" />
+</p>
 ---
