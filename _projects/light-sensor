@@ -1,15 +1,1 @@
----
-layout: post
-title: Light Sensor
-skills:
-- KiCAD
-- Circuitry design
-- Layout design
-main-image: /3d-view.png
----
 
-## Schematics
-<img src="/assets/images/pitch-detector-project/top-level.png" width="600">
-
-## Layout
-<img src="/assets/images/pitch-detector-project/layout.png" width="600">
