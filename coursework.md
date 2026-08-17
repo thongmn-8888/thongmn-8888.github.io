@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Technical Coursework
+layout: wrapper
+permalink: /coursework/
 ---
 
 # Technical Coursework
