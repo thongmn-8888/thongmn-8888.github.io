@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pitch Detector
-main-image: "/assets/images/pitch-detector-project/3d-view"
+main-image: "/assets/images/pitch-detector-project/3d-view.png"
 ---
 
 ## Project Description
@@ -22,7 +22,7 @@ The Pitch Detector project focused on developing a portable system that identifi
 <img src="/assets/images/pitch-detector-project/layout.png" width="600">
 
 ### 3D View
-<img src="/assets/images/pitch-detector-project/3d-view" width="600">
+<img src="/assets/images/pitch-detector-project/3d-view.png" width="600">
 
 ### Board after soldering
 <img src="/assets/images/treble-boost-project/frequency-domain.png" width="600">
