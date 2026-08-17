@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EEPROM Failure Analysis
+title: EEPROM Failure Analysis (from Masimo Internship)
 skills:
 - Oscilloscope
 - SPI Communication
