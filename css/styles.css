@@ -943,7 +943,12 @@ footer p {
     .post-view .content {
         padding: 5px;
       }
-
+}
       
+.semester-heading {
+    margin-top: 2.5rem;
 }
 
+.gpa-line {
+    font-size: calc(9px + 0.5vw);
+}
