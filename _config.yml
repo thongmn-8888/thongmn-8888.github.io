@@ -15,9 +15,9 @@ title: Thong Nguyen's Portfolio # This is what shows up in the tab of the browse
 name: Thong Nguyen
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, my name is Thong Nguyen, and I'm a Electrical and Computer Engineer student at UC Berkeley.
+  Here, you can find more information my coursework as well as projects. I will be graduating in
+  December 2027.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpg
