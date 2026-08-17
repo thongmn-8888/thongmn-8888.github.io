@@ -25,4 +25,4 @@ The Pitch Detector project focused on developing a portable system that identifi
 <img src="/assets/images/pitch-detector-project/3d-view.png" width="600">
 
 ### Board after soldering
-<img src="/assets/images/treble-boost-project/frequency-domain.png" width="600">
+<img src="/assets/images/pitch-detector-project/solder.png" width="600">
