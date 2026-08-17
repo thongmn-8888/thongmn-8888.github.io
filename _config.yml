@@ -31,7 +31,7 @@ resume-url: /assets/resume/Resume.pdf # or /assets/resume/resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/thong-m-nguyen    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: thong-m-nguyen    # https://www.linkedin.com/in/{your url slug} 
   #github: leea12    # https://github.com/{your url slug}   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
