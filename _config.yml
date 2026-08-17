@@ -137,9 +137,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  coursework:
-    output: true
-
 
 markdown: kramdown
 highlighter: rouge
