@@ -7,8 +7,6 @@ permalink: /coursework/
 
 **GPA**: 3.15 / 4.00
 
----
-
 ## Fall 2026
 - **EE 140**: Linear Integrated Circuits
 - **CS 152**: Computer Architecture and Engineering
