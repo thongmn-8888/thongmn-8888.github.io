@@ -6,8 +6,12 @@ skills:
 - KiCAD
 main-image: /bms.png
 ---
-<p float="left">
-  <img src="/assets/images/bms-project/top-level.png" width="300" />
-  <img src="/assets/images/bms-project/voltage-subtractor.png" width="300" /> 
-  <img src="/assets/images/bms-project/power-rail.png" width="300" />
-</p>
+### Top-Level Schematic
+![Top-level schematic](/assets/images/bms-project/top-level.png)
+
+### Voltage Subtractor Circuit: voltageread.kicad_sch
+![Voltage subtractor circuit](/assets/images/bms-project/voltage-subtractor.png)
+
+### Power Rail Design: powerrail.kicad_sch
+![Power rail design](/assets/images/bms-project/power-rail.png)
+
