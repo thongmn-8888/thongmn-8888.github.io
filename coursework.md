@@ -7,6 +7,8 @@ permalink: /coursework/
 
 **GPA**: 3.15 / 4.00
 
+<br> 
+
 <h2 class="semester-heading">Fall 2026</h2>
 
 - **EE 140**: Linear Integrated Circuits
