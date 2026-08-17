@@ -950,3 +950,8 @@ footer p {
     padding-top: 0.5rem;
     border-top: 1px solid #ddd;
 }
+
+.gpa-line {
+    margin-bottom: 1.5rem;
+    font-size: calc(9px + 0.5vw);
+}
