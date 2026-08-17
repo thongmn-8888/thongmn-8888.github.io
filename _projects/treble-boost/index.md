@@ -5,7 +5,7 @@ title: Treble Boost Audio Circuit
 skills: 
 - LTSpice
 - Breadboard
-main-image: /project.webp 
+main-image: /assets/images/treble-boost-project/breadboard.png 
 ---
 
 ## Project Description
