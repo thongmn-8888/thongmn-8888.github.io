@@ -6,7 +6,7 @@ skills:
 - SPI Communication
 - C Programming
 - Soldering
-main-image: /read-diagram.png
+main-image: /read-timing.png
 ---
 
 ## Project Description
