@@ -20,7 +20,7 @@ The Pitch Detector project focused on developing a portable system that identifi
 ## Layout
 <img src="/assets/images/pitch-detector-project/layout.png" width="600">
 
-### 3D View
+## 3D View
 <img src="/assets/images/pitch-detector-project/3d-view.png" width="600">
 
 ### Board after soldering
