@@ -5,7 +5,7 @@ skills:
 - KiCAD
 - Circuitry design
 - Layout design
-main-image: /assets/images/pitch-detector-project/3d-view.png
+main-image: /3d-view.png
 ---
 
 ## Project Description
