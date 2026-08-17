@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pitch Detector
-main-image: "/assets/images/treble-boost-project/breadboard.png"
+main-image: "/assets/images/pitch-detector-project/3d-view"
 ---
 
 ## Project Description
@@ -13,16 +13,16 @@ The Pitch Detector project focused on developing a portable system that identifi
 - Layout design
 
 ### Top-level schematics
-<img src="/assets/images/treble-boost-project/schematics.png" width="600">
+<img src="/assets/images/pitch-detector-project/top-level.png" width="600">
 
 ### Power schematics
-<img src="/assets/images/treble-boost-project/transient-response.png" width="600">
+<img src="/assets/images/pitch-detector-project/power.png" width="600">
 
 ### Layout
-<img src="/assets/images/treble-boost-project/bode-plot.png" width="600">
+<img src="/assets/images/pitch-detector-project/layout.png" width="600">
 
 ### 3D View
-<img src="/assets/images/treble-boost-project/breadboard.png" width="600">
+<img src="/assets/images/pitch-detector-project/3d-view" width="600">
 
 ### Board after soldering
 <img src="/assets/images/treble-boost-project/frequency-domain.png" width="600">
