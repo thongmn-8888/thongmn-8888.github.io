@@ -5,7 +5,7 @@ skills:
 - Oscilloscope
 - Circuitry analysis
 - PADs Layout Software
-main-image: /calibration.png
+main-image: /scope.jpg
 ---
 
 ## Project Description
