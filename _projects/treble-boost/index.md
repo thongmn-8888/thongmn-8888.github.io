@@ -16,21 +16,21 @@ The Treble Boost Audio Effects Circuit project involved designing an analog circ
 - Breadboard
 
 ### Schematics in LTSpice
-![Schematics in LTSpice](/assets/images/treble-boost-project/schematics.png)
+<img src="/assets/images/treble-boost-project/schematics.png" width="600">
 
 ### Transient Response Simulation in LTSpice
-![Transient Response](/assets/images/treble-boost-project/transient-response.png)
+<img src="/assets/images/treble-boost-project/transient-response.png" width="600">
 
 ### Frequency Response Simulation in LTSpice
-![Frequency Response](/assets/images/treble-boost-project/bode-plot.png)
+<img src="/assets/images/treble-boost-project/bode-plot.png" width="600">
 
 ### Breadboard Circuit
-![Breadboard](/assets/images/treble-boost-project/breadboard.png)
+<img src="/assets/images/treble-boost-project/breadboard.png" width="600">
 
 ### Frequency Response measured from breadboard using Network Analyzer
-![Frequency Response using Network Analyzer](/assets/images/treble-boost-project/frequency-domain.png)
+<img src="/assets/images/treble-boost-project/frequency-domain.png" width="600">
 
 ### Time-Domain plots measured from breadboard using Oscilloscope
-![Time-Domain plot with 200 Hz using Oscilloscope](/assets/images/treble-boost-project/time-domain-200hz.png)
-![Time-Domain plot with 500 Hz using Oscilloscope](/assets/images/treble-boost-project/time-domain-500hz.png)
-![Time-Domain plot with 20 kHz using Oscilloscope](/assets/images/treble-boost-project/time-domain-20khz.png)
+<img src="/assets/images/treble-boost-project/time-domain-200hz.png" width="600">
+<img src="/assets/images/treble-boost-project/time-domain-500hz.png" width="600">
+<img src="/assets/images/treble-boost-project/time-domain-20khz.png" width="600">
