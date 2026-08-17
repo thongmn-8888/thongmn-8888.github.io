@@ -15,6 +15,6 @@ The Treble Boost Audio Effects Circuit project involved designing an analog circ
 <img src="/assets/images/bms-project/voltage-subtractor.png" width="600">
 
 ### Power Rail Design: powerrail.kicad_sch
-<img src="/assets/images/bms-project/power-rail" width="600">
+<img src="/assets/images/bms-project/power-rail.png" width="600">
 
 
