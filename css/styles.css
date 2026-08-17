@@ -943,6 +943,10 @@ footer p {
     .post-view .content {
         padding: 5px;
       }
-
+}
       
+.semester-heading {
+    margin-top: 2.5rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid #ddd;
 }
