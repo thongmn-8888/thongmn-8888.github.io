@@ -23,6 +23,7 @@ permalink: /coursework/
 - **EECS 16A**: Foundations of Signals, Dynamical Systems, and Information Processing [B]
 - **EECS 16B**: Introduction to Circuits & Devices [B]
 - **CS 61A**: The Structure and Interpretation of Computer Programs [B]
+- **HOPE**: Hands-On PCB Engineering [P]
 
 <br>
 
