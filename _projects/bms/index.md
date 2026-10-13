@@ -6,7 +6,7 @@ skills:
 main-image: /bms.png
 ---
 ## Project Description
-The Treble Boost Audio Effects Circuit project involved designing an analog circuit to amplify and shape an electric guitar signal to produce a brighter, distorted tone commonly used in rock music. The circuit was designed to provide a voltage gain of at least 10 while emphasizing higher-frequency content. Schematics were created and simulated in LTspice to verify gain, cutoff frequencies, and overall signal behavior. The design was then implemented on a breadboard and evaluated using lab equipment, including a network analyzer, to confirm frequency response and amplification. This project focused on analog circuit design, simulation, and hardware validation, highlighting the importance of translating theoretical designs into reliable real-world implementations.
+This project focuses on the design of a Battery Management System (BMS) for a 12s4p lithium-ion battery pack using 18650 cells for electric vehicle applications. The BMS monitors individual cell voltages and temperatures, performs cell balancing during charging, and communicates battery data to external systems. An STM32F446 microcontroller is used as the main controller due to its integrated ADCs and peripheral support. Because series-connected cells naturally develop voltage imbalance, each cell voltage is measured independently using the MCU’s ADC. A passive balancing circuit is implemented using bleeding resistors and MOSFETs to safely discharge higher-voltage cells and equalize the pack.
 
 ### Top-Level Schematic
 <img src="/assets/images/bms-project/top-level.png" width="600">
