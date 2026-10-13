@@ -5,8 +5,6 @@ permalink: /coursework/
 
 # Technical Coursework
 
-<p class="gpa-line"><strong>GPA</strong>: 3.15 / 4.00</p>
-
 <h2 class="semester-heading">Fall 2026</h2>
 
 - **EE 140**: Linear Integrated Circuits
@@ -15,15 +13,15 @@ permalink: /coursework/
 
 <h2 class="semester-heading">Spring 2026</h2>
 
-- **EE 105**: Microelectronic Devices [A-]
-- **CS 61C**: Great Ideas of Computer Architecture (Machine Structures) [B-]
+- **EE 105**: Microelectronic Devices
+- **CS 61C**: Great Ideas of Computer Architecture (Machine Structures)
 
 <h2 class="semester-heading">Fall 2025</h2>
 
-- **EECS 16A**: Foundations of Signals, Dynamical Systems, and Information Processing [B]
-- **EECS 16B**: Introduction to Circuits & Devices [B]
-- **CS 61A**: The Structure and Interpretation of Computer Programs [B]
-- **HOPE**: Hands-On PCB Engineering [P]
+- **EECS 16A**: Foundations of Signals, Dynamical Systems, and Information Processing
+- **EECS 16B**: Introduction to Circuits & Devices
+- **CS 61A**: The Structure and Interpretation of Computer Programs
+- **HOPE**: Hands-On PCB Engineering
 
 <br>
 
